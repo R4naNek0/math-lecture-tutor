@@ -19,8 +19,6 @@
 <你的 .claude 目录>\skills\math-lecture-tutor\
 ```
 
-如果拿到的是 `math-lecture-tutor.skill` 分发包：它本质是个 zip，重命名为 `.zip` 解压后，把得到的 `math-lecture-tutor` 文件夹放进上面的 skills 目录；或用客户端的"导入 skill"功能选择该文件。
-
 ## 怎么用
 
 不用喊它的名字，直接像跟老师说话那样开口就会触发：
